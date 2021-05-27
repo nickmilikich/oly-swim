@@ -1,0 +1,11 @@
+matplotlib
+jupyter
+notebook
+Sphinx
+flake8
+mypy
+numpy
+pandas
+random
+itertools
+time

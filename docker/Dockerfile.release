@@ -1,0 +1,6 @@
+FROM oly_swim-image-base
+
+COPY . /work
+WORKDIR /work
+
+ENTRYPOINT ["/bin/bash"]
